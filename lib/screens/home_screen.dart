@@ -206,7 +206,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('BMI Calculator',style: TextStyle(fontWeight: FontWeight.w600)),
+        title: const Text('BMI Fitness',style: TextStyle(fontWeight: FontWeight.w600)),
         flexibleSpace: Container(
           decoration: const BoxDecoration(
             gradient: LinearGradient(
