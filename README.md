@@ -1,6 +1,6 @@
 # BMI Fitness
 
-![App Icon]([path_to_your_app_icon.png](https://github.com/user-attachments/assets/db1be49e-455f-488b-82d4-30717a5a7632))
+![App Icon](https://github.com/user-attachments/assets/db1be49e-455f-488b-82d4-30717a5a7632)
 
 
 ## Overview
