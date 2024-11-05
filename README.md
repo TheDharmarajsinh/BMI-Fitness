@@ -51,6 +51,7 @@ To install and run the BMI Fitness app locally, follow these steps:
    - Open a terminal (in VS Code, use the integrated terminal) and run:
    ```bash
    flutter pub get
+   ```
 
 
    
