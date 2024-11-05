@@ -22,8 +22,19 @@ BMI Fitness is a user-friendly mobile application designed to help users calcula
 
 ## Screenshots
 
-![Screenshot1](path_to_screenshot1.png) <!-- Replace with actual paths to your screenshots -->
-![Screenshot2](path_to_screenshot2.png)
+![SS 1](https://github.com/user-attachments/assets/2828fc41-d795-4f16-9e5e-f3bb173041c0)
+
+![SS 2](https://github.com/user-attachments/assets/d0a15b0a-695a-4c6b-bd3f-8a1b9374b22e)
+
+![SS 3](https://github.com/user-attachments/assets/fa46a345-ebcf-455a-9d7a-2ae9d168a3f9)
+
+![SS 4](https://github.com/user-attachments/assets/d72a22c4-65fb-4fee-a44e-428651f1a648)
+
+![SS 5](https://github.com/user-attachments/assets/454cb2d1-b836-445a-b969-f8de5ea9bc60)
+
+![SS 6](https://github.com/user-attachments/assets/88866a95-ada4-4a34-b4eb-030b918d9645)
+
+![SS 7](https://github.com/user-attachments/assets/86d0977f-15cc-48b2-a94c-c20b641ca37b)
 
 
 ## Installation
